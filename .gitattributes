@@ -32,5 +32,8 @@
 *.svg -text -crlf
 *.lighting -text -crlf
 *.shadergraph -text -crlf
+.gitmodules -text -crlf
+.vsconfig -text -crlf
 /ProjectSettings/ProjectVersion.txt -text -crlf
 /Packages/manifest.json -text -crlf
+/Packages/packages-lock.json -text -crlf
